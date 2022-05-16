@@ -1,0 +1,43 @@
+<div class="modal-header">
+    <span class="title ">Detalles del Vehiculo</span>
+</div>
+<div class="modal-body">
+    <div class="row">
+        
+        <div class="col-md-12 text-center ">
+            <img src={{detalles.Foto}} class="card-img-top margen" alt="...">
+            <table class="table table-striped" >               
+                <tbody>
+                  <tr>
+                    <th scope="row">Marca</th>
+                    <td>{{detalles.Marca}}</td>                   
+                  </tr>
+                  <tr>
+                    <th scope="row">Modelo</th>
+                    <td>{{detalles.Modelo}}</td>                   
+                  </tr>
+                  <tr>
+                    <th scope="row">Año</th>
+                    <td colspan="2">{{detalles.Year}}</td>                   
+                  </tr>
+                  <tr>
+                    <th scope="row">Color</th>
+                    <td colspan="2">Pendiente</td>                   
+                  </tr>
+                  <tr>
+                    <th scope="row">Tipo de combustible</th>
+                    <td colspan="2">Pendiente</td>                   
+                  </tr>
+                  
+                </tbody>
+              </table>
+        </div>
+        
+    </div>
+
+  
+</div>
+<div class="modal-footer">
+    
+    <button type="button" class="btn btn-primary" (click)="activeModal.close('Save click')">Aceptar</button>
+</div>
