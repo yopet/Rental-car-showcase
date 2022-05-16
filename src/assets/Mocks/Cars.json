@@ -22,11 +22,46 @@
             "Precio": "62000000"
         },
         {
-            "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
-            "Modelo": "Logan",
+            "Foto": "https://es.erch2014.com/images/avtomobili/kia-rio-2013-otzivi-vladelcev-dostoinstva-i-nedostatki-po-mneniyu-avtolyubitelej.jpg",
+            "Modelo": "Rio",
+            "Year": "2013",
+            "Marca": "Kia",
+            "Precio": "45000000"
+        },
+        {
+            "Foto": "https://i.pinimg.com/736x/60/cf/ba/60cfba9073fa9f145893b2e5951d810a--tucson-garage.jpg",
+            "Modelo": "Tucson",
+            "Year": "2021",
+            "Marca": "Hyundai",
+            "Precio": "95000000"
+        },
+        {
+            "Foto": "https://www.nzherald.co.nz/resizer/hRvgalN6SZhcdjrtDTL697KHD3k=/576x324/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6K6SNU72BFDZEQUWKEBRNSBR5Q.jpg",
+            "Modelo": "CX-3",
+            "Year": "2020",
+            "Marca": "Mazda",
+            "Precio": "65000000"
+        },
+        {
+            "Foto": "https://toyotabicutan.com/wp-content/uploads/2022/04/hiluxthumb.png",
+            "Modelo": "Explore",
+            "Year": "2019",
+            "Marca": "Toyota",
+            "Precio": "235000000"
+        },
+        {
+            "Foto": "https://www.nzherald.co.nz/resizer/E9tdO_JjhgsYbwDCIRiISDk0Nu0=/576x324/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/DWE4LVB3EGOTTQ3ETJSFWWSGFI.jpg",
+            "Modelo": "V40",
             "Year": "2022",
-            "Marca": "Renault",
-            "Precio": "62000000"
+            "Marca": "Volvo",
+            "Precio": "110000000"
+        },
+        {
+            "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsU3MuOthjyO-yfe8vaE85KyvvXDY_TXOfDdmSUi06QpaO7psw8FSZNmcEq48pWwtuyXI&usqp=CAU",
+            "Modelo": "SLS AMG",
+            "Year": "2022",
+            "Marca": "Mercedes-Benz",
+            "Precio": "325000000"
         },
         {
             "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
@@ -36,11 +71,11 @@
             "Precio": "62000000"
         },
         {
-            "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
-            "Modelo": "Logan",
+            "Foto": "https://www.c4wr.com/wp-content/uploads/2020/01/%D8%B1%D8%A7%D9%81%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%88%D8%AF%D9%8A%D9%84%D8%A7-%D8%B1%D8%AE%D9%8A%D8%B5%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%8A%D9%86%D8%A7%D9%81%D8%B3-%D9%84%D8%A7%D8%AF%D8%A7-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9.jpg",
+            "Modelo": "Onix",
             "Year": "2022",
-            "Marca": "Renault",
-            "Precio": "62000000"
+            "Marca": "Chevrolet",
+            "Precio": "73000000"
         },
         {
             "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
@@ -50,25 +85,47 @@
             "Precio": "62000000"
         },
         {
-            "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
-            "Modelo": "Logan",
-            "Year": "2022",
-            "Marca": "Renault",
-            "Precio": "62000000"
+            "Foto": "https://es.erch2014.com/images/avtomobili/kia-rio-2013-otzivi-vladelcev-dostoinstva-i-nedostatki-po-mneniyu-avtolyubitelej.jpg",
+            "Modelo": "Rio",
+            "Year": "2013",
+            "Marca": "Kia",
+            "Precio": "45000000"
         },
         {
-            "Foto": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_e4768e9aa2c34f8a810934b68ab159a2.jpg",
-            "Modelo": "Logan",
+            "Foto": "https://i.pinimg.com/736x/60/cf/ba/60cfba9073fa9f145893b2e5951d810a--tucson-garage.jpg",
+            "Modelo": "Tucson",
+            "Year": "2021",
+            "Marca": "Hyundai",
+            "Precio": "95000000"
+        },
+        {
+            "Foto": "https://www.nzherald.co.nz/resizer/hRvgalN6SZhcdjrtDTL697KHD3k=/576x324/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6K6SNU72BFDZEQUWKEBRNSBR5Q.jpg",
+            "Modelo": "CX-3",
+            "Year": "2020",
+            "Marca": "Mazda",
+            "Precio": "65000000"
+        },
+        {
+            "Foto": "https://toyotabicutan.com/wp-content/uploads/2022/04/hiluxthumb.png",
+            "Modelo": "Explore",
+            "Year": "2019",
+            "Marca": "Toyota",
+            "Precio": "235000000"
+        },
+        {
+            "Foto": "https://www.nzherald.co.nz/resizer/E9tdO_JjhgsYbwDCIRiISDk0Nu0=/576x324/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/DWE4LVB3EGOTTQ3ETJSFWWSGFI.jpg",
+            "Modelo": "V40",
             "Year": "2022",
-            "Marca": "Renault",
-            "Precio": "62000000"
+            "Marca": "Volvo",
+            "Precio": "110000000"
+        },
+        {
+            "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsU3MuOthjyO-yfe8vaE85KyvvXDY_TXOfDdmSUi06QpaO7psw8FSZNmcEq48pWwtuyXI&usqp=CAU",
+            "Modelo": "SLS AMG",
+            "Year": "2022",
+            "Marca": "Mercedes-Benz",
+            "Precio": "325000000"
         }
-
-
-
-
-
-
 
 
 

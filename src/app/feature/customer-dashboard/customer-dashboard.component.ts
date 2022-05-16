@@ -29,7 +29,7 @@ export class CustomerDashboardComponent implements OnInit {
 
   ngOnInit(): void {
     this.broker.getCars().subscribe((result: any) => {
-     this.CarsOrigen = result.cars; 
+     this.CarsOrigen = result.cars.sort((a:any, b:any) => (a.Marca > b.Marca) ? 1 : -1); 
      this.Cars = this.CarsOrigen;
      this.Rows = Math.ceil(this.Cars.length / this.cols);   
     }, (error) => {
